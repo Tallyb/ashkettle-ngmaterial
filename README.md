@@ -1,3 +1,6 @@
+
+Note:  A new and official meteor package for material now exists. meteor add angular:material
+
 Intro
 ---
 
