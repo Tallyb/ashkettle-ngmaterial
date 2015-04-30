@@ -1,5 +1,7 @@
 
-Note:  A new and official meteor package for material now exists. meteor add angular:material
+Deprecated
+___
+A new and official meteor package for material now exists. meteor add angular:angular-material
 
 Intro
 ---
